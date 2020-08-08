@@ -43,6 +43,7 @@ body {
 
 body, input, button, textarea{
   font: 500 1.6rem Poppins; /*1.6rem = 15.36px*/
+  color: var(--color-text-base);
 }
 
 .container {
